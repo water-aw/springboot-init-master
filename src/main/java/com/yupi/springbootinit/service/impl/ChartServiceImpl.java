@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 /**
 * @author Administrator
 * @description 针对表【chart(图表信息表)】的数据库操作Service实现
-* @createDate 2024-01-08 11:39:31
+* @createDate 2024-01-08 16:23:59
 */
 @Service
 public class ChartServiceImpl extends ServiceImpl<ChartMapper, Chart>
